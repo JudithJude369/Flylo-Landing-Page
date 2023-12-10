@@ -1,6 +1,6 @@
 # Frontend Mentor - Fylo landing page with two column layout solution
 
-This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor
+This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor]
 
 ### The challenge
 Users are able to:
